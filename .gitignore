@@ -102,6 +102,10 @@ dist
 .svelte-kit/
 
 # vitepress build output
+.env
+data/
+__pycache__/
+*.pyc
 **/.vitepress/dist
 
 # vitepress cache directory
